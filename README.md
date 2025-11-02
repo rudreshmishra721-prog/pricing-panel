@@ -21,8 +21,7 @@ A clean and responsive **Pricing Panel Website** built using only **HTML & CSS**
 ├── icon2.png
 └── icon3.png
 
-yaml
-Copy code
+
 
 ---
 
