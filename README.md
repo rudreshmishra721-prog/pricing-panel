@@ -6,7 +6,7 @@ A clean and responsive **Pricing Panel Website** built using only **HTML & CSS**
 
 ## ✨ Features
 - Modern and minimal UI  
-- 3 pricing plans (Personal, Small Team, Enterprise)  
+- 3 pricing plan (Personal, Small Team, Enterprise)  
 - Responsive layout using Flexbox  
 - Google Fonts – Open Sans  
 
